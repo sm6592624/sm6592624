@@ -109,24 +109,15 @@ Structured for reliability, clarity, and straightforward integration with fronte
 
 ---
 
-## 🧩 Optional: Advanced Metrics (Lowlighter)
 
-> If you want richer insights, create a workflow that generates a metrics SVG using [lowlighter/metrics].  
-> Then embed it like this:
-
-```md
-![Metrics](https://github.com/sm6592624/sm6592624/blob/main/github-metrics.svg)
-```
-
----
 
 ## 🤝 Let’s Connect
 
 I’m always open to meaningful conversations around engineering, AI, and product building.
 
-- 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/saransh-mishra-20ab00220/)
+- 💼 LinkedIn:(https://www.linkedin.com/in/saransh-mishra-20ab00220/)
 - 📫 Email: **sm6592624@gmail.com**
-- 🌐 Portfolio: [Add your portfolio URL](https://example.com)
+- 🌐 Portfolio:(https://github.com/sm6592624/Portfolio-web)
 
 ---
 
