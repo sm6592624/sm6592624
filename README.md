@@ -1,11 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm Saransh Mishra  
-### AI Engineer • Full-Stack Developer • Problem Solver
+### Aspiring Software Development Engineer (SDE) • Full-Stack Developer • AI/ML Enthusiast
 
 <p>
-I build intelligent, production-ready software at the intersection of <strong>AI/ML</strong>, <strong>privacy-preserving systems</strong>, and <strong>scalable full-stack architecture</strong>.  
-My focus: shipping real products that are technically rigorous, user-centered, and impact-driven.
+I build scalable, production-ready software across full-stack development and applied AI/ML. My focus is on strong data structures & algorithms, clean backend architecture, and user-centric product engineering to deliver reliable real-world solutions.
 </p>
 
 <p>
@@ -70,19 +69,19 @@ Designed for practical team coordination with scalable architecture patterns.
 
 ---
 
-### 3) Wanderlust — MERN Travel Platform with Admin Panel
-🔗 **Repository:** [wanderlust](https://github.com/sm6592624/wanderlust)  
-**Tech Stack:** MongoDB, Express, React, Node.js  
-Engineered a full-stack travel platform with integrated admin functionality and complete CRUD operations.  
-Focused on modular design and extensibility for future feature expansion and real deployment scenarios.
+### 3) QuickAI — AI-Powered Productivity Platform
+🔗 **Repository:** [QuickAI](https://github.com/sm6592624/QuickAI)  
+**Tech Stack:** JavaScript, Node.js, Express, React, OpenAI API  
+Built an AI-powered productivity platform focused on intelligent workflows and automation for end users.  
+Implemented modular full-stack architecture with API-driven integrations and scalable service design.
 
 ---
 
-### 4) School Management API — Backend for Institutional Workflows
-🔗 **Repository:** [School-Management-Api](https://github.com/sm6592624/School-Management-Api)  
-**Tech Stack:** JavaScript, Node.js, Express, REST API Design  
-Built maintainable backend APIs supporting core school operations with clean service boundaries.  
-Structured for reliability, clarity, and straightforward integration with frontend or external systems.
+### 4) DataVaultPro — Secure Data Management Platform
+🔗 **Repository:** [DataVaultPro](https://github.com/sm6592624/DataVaultPro)  
+**Tech Stack:** JavaScript, Node.js, Express, MongoDB, Authentication & Authorization  
+Engineered a secure data management platform with robust backend services and role-based access controls.  
+Focused on data reliability, security best practices, and maintainable system architecture for production-style usage.
 
 ---
 
@@ -109,15 +108,24 @@ Structured for reliability, clarity, and straightforward integration with fronte
 
 ---
 
+## 🧩 Optional: Advanced Metrics (Lowlighter)
 
+> If you want richer insights, create a workflow that generates a metrics SVG using [lowlighter/metrics].  
+> Then embed it like this:
+
+```md
+![Metrics](https://github.com/sm6592624/sm6592624/blob/main/github-metrics.svg)
+```
+
+---
 
 ## 🤝 Let’s Connect
 
 I’m always open to meaningful conversations around engineering, AI, and product building.
 
-- 💼 LinkedIn:(https://www.linkedin.com/in/saransh-mishra-20ab00220/)
+- 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/saransh-mishra-20ab00220/)
 - 📫 Email: **sm6592624@gmail.com**
-- 🌐 Portfolio:(https://github.com/sm6592624/Portfolio-web)
+- 🌐 Portfolio: [Add your portfolio URL](https://example.com)
 
 ---
 
